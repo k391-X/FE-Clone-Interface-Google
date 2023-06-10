@@ -9,5 +9,11 @@
 
 label {
     color: white;
-    color: red;
+}
+
+.grip-dot {
+    /* color: rgba(255,255,255,.87); */
+    background-color: azure;
+    width: 24px;
+    height: 24px;
 }
